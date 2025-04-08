@@ -130,14 +130,6 @@ python visualize_samples.py --model wgan
 - Models are trained on PneumoniaMNIST only. You can extend to other MedMNIST datasets.
 - Evaluation metrics are approximate due to low image resolution.
 
----
-
-## ✍️ Authors
-
-- [Your Name]
-- [Optional collaborators]
-
----
 
 ## 📜 License
 
